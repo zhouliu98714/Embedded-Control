@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1603409800 source:c:\users\zl\desktop\lab3.1\lab3-1_template.c
+	"C8051_SIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1600699272 c:\users\zl\desktop\lab3.1\c8051_sim.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<conio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<time.h>
+	<sys/select.h>
+	<termios.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+
